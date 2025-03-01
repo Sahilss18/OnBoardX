@@ -35,14 +35,14 @@
 ![image](https://github.com/user-attachments/assets/af127a8f-e339-4e1e-a7db-7d4235ec2ae0)
 
 ## 📸 Implementation Screenshots
-### 🔹 ESP32 + Gyro Sensor Data Logging
+### 🔹 ESP32 + Gyro Sensor Data Logging + Raspberry Pi 
 
 
 ![data1](https://github.com/user-attachments/assets/68505b7c-d11c-49f5-893e-0060870da7c1)
 
 
 ![data2](https://github.com/user-attachments/assets/62b5c172-f816-485b-9077-14f99ffeec46)
-
+![Image](https://github.com/user-attachments/assets/b8a86b06-b7b9-4591-a506-6c6586a9722d)
 
 ![data3](https://github.com/user-attachments/assets/041a5935-9e0b-48ca-b3e5-f50292a848f8)
 
