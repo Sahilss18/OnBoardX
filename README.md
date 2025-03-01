@@ -50,7 +50,7 @@
 ### 🔹 Real-Time Dashboard
 
 
-![board1](https://github.com/user-attachments/assets/d79fe7bb-121d-4e18-bb3b-2c1920e14e68)
+![Image](https://github.com/user-attachments/assets/3923faec-38c7-4747-87de-2f3de580bdcb)
 
 
 ![board2](https://github.com/user-attachments/assets/34fd7123-083f-4f00-8d31-65b44994f746)
